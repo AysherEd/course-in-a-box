@@ -7,8 +7,8 @@ published: true
 
 Kursus ini merangkumi topik mengenai :
 
-Google Classroom
-Google Meet
+- Google Classroom
+- Google Meet
 
 Kursus ini diambil kira sebagai kursus wajib untuk pensyarah di KKGP untuk persediaan kelas pdp secara maya
 
